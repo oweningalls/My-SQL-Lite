@@ -1,6 +1,6 @@
 ﻿namespace LiteDatabase;
 
-public interface Database
+public class ExecutableCommand
 {
     
 }
